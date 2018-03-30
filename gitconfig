@@ -1,0 +1,7 @@
+[user]
+	name = Emmanouil \"Manolis\" Maragkakis
+	email = mns.marag@gmail.com
+[color]
+	ui = auto
+[core]
+	excludesFile = /Users/mns/.gitignore_global
